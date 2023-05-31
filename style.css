@@ -1,3 +1,7 @@
 .text {
   font-size: 52;
 }
+.squarebox {
+  max-width: 540px;
+  background-color: plum;
+}
